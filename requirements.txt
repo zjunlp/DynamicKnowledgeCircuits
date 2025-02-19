@@ -1,0 +1,15 @@
+accelerate==0.32.1
+datasets==2.20.0
+einops==0.8.0
+evaluate==0.4.2
+matplotlib==3.9.1
+numpy==1.26.4
+pandas==2.2.2
+rich==13.7.1
+scikit-learn==1.5.1
+tensorboard==2.17.1
+tqdm==4.66.4
+transformers==4.42.3
+wandb==0.17.4
+# transformer-lens==2.0.0 # Updated for tinyllama
+#conda install --channel conda-forge pygraphviz
