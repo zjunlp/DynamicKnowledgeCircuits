@@ -49,9 +49,6 @@ These insights not only advance our theoretical understanding of the mechanisms 
   <img src="./assets/illustration.png" style="width: 75%;" alt="Illustration">
 </div>
 
-
----
-
 ## 🔧Installation
 
 ```bash
@@ -59,7 +56,6 @@ git clone https://github.com/zjunlp/DynamicKnowledgeCircuits
 cd DynamicKnowledgeCircuits
 pip install -r requirements.txt
 ```
----
 
 ## 🗃️Dataset-Construction
 
@@ -81,8 +77,6 @@ python data/text_data_generation.py
 python data/query_data_generation.py
 python data/circuits_data_generation.py
 ```
-
----
 
 ## ✏️Training
 
@@ -128,7 +122,6 @@ CUDA_VISIBLE_DEVICES=0,1 python train.py \
     --save_strategy epoch \
     --report_to wandb
 ```
----
 
 ## 🔍Circuit-Discovery
 
@@ -166,8 +159,6 @@ for task in "city" "company" "major"; do
     done
 done
 ```
-
----
 
 ## 🤔Circuit-Evaluation
 
@@ -215,19 +206,13 @@ for task in "city" "company" "major"; do
 done
 ```
 
----
-
 ## 📊Analysis
 
 See notebooks in the `analysis/` directory for the visualization analysis of the knowledge circuits.
 
----
-
 ## 🌻Acknowledgement
 
 The code in this work is built on top of the projects of [transformer_lens](https://github.com/TransformerLensOrg/TransformerLens), [EAP-IG](https://github.com/hannamw/EAP-IG) and [KnowledgeCircuits](https://github.com/zjunlp/KnowledgeCircuits). Thanks for their great contributions!
-
----
 
 ## 🚩Citation
 
