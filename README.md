@@ -3,10 +3,10 @@
 <h3 align="center">A Knowledge Circuits Perspective on Continual Pre-Training</p>
 
 <h4 align="center">
-  <a href="https://zjunlp.github.io/project/DynamicKnowledgeCircuits/">🌐Project</a> •
-  <a href="https://arxiv.org/abs/2502.11196">📄Paper</a> •
-  <a href="https://huggingface.co/papers/2502.11196">🤗HFPaper</a> •
-  <a href="https://x.com/zxlzr/status/1904382928551059786">𝕏 Blog</a>
+  <a href="https://zjunlp.github.io/project/DynamicKnowledgeCircuits/" target="_blank">🌐Project</a> •
+  <a href="https://arxiv.org/abs/2502.11196" target="_blank">📄Paper</a> •
+  <a href="https://huggingface.co/papers/2502.11196" target="_blank">🤗HFPaper</a> •
+  <a href="https://x.com/zxlzr/status/1904382928551059786" target="_blank">𝕏 Blog</a>
 </h4>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -19,6 +19,7 @@
 
 ## 🔔News
 
+- <strong>[2025-03-06]</strong> Our paper has been accepted at the [Open Science for Foundation Models (SCI-FM)](https://open-foundation-model.github.io) Workshop at ICLR 2025!
 - <strong>[2025-02-16]</strong> We release our paper [How Do LLMs Acquire New Knowledge? A Knowledge Circuits Perspective on Continual Pre-Training](https://arxiv.org/abs/2502.11196).
 
 ## 📖Table of Contents
