@@ -18,7 +18,7 @@
 </div>
 
 ## 🔔News
-
+- <strong>[2025-05-16]</strong> Our paper has been accepted by ACL 2025 (Findings)! 🎉 
 - <strong>[2025-03-06]</strong> Our paper has been accepted at the [Open Science for Foundation Models (SCI-FM)](https://open-foundation-model.github.io) Workshop at ICLR 2025!
 - <strong>[2025-02-16]</strong> We release our paper [How Do LLMs Acquire New Knowledge? A Knowledge Circuits Perspective on Continual Pre-Training](https://arxiv.org/abs/2502.11196).
 
